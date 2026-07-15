@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora",
+  "description": "Una calculadora estilo vintage con rollo de papel para seguimiento de cálculos e integración de conversiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

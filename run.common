@@ -1,0 +1,9 @@
+#!/bin/bash
+# Script para configurar el entorno Android
+
+echo "Sincronizando Capacitor..."
+npm install
+npm run build
+npx cap sync android
+
+echo "Configuracion completada."
